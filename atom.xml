@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/StevenFpg/StevenFpg.github.io/"/>
-  <updated>2020-05-04T09:19:07.680Z</updated>
+  <updated>2020-05-05T14:36:53.921Z</updated>
   <id>https://github.com/StevenFpg/StevenFpg.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>超实用的Excel导入导出-POI方式实现</title>
+    <link href="https://github.com/StevenFpg/StevenFpg.github.io/2020/05/05/chao-shi-yong-de-excel-dao-ru-dao-chu-poi-fang-shi-shi-xian/"/>
+    <id>https://github.com/StevenFpg/StevenFpg.github.io/2020/05/05/chao-shi-yong-de-excel-dao-ru-dao-chu-poi-fang-shi-shi-xian/</id>
+    <published>2020-05-05T14:16:50.000Z</published>
+    <updated>2020-05-05T14:36:53.921Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Apache-POI使用详解&quot;&gt;&lt;a href=&quot;#Apache-POI使用详解&quot; class=&quot;headerlink&quot; title=&quot;Apache POI使用详解&quot;&gt;&lt;/a&gt;Apache POI使用详解&lt;/h2&gt;&lt;h3
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Java" scheme="https://github.com/StevenFpg/StevenFpg.github.io/tags/Java/"/>
+    
+      <category term="POI" scheme="https://github.com/StevenFpg/StevenFpg.github.io/tags/POI/"/>
+    
+      <category term="Excel" scheme="https://github.com/StevenFpg/StevenFpg.github.io/tags/Excel/"/>
+    
+  </entry>
   
   <entry>
     <title>MySql优化原则</title>
